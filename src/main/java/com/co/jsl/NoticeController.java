@@ -1,5 +1,10 @@
 package com.co.jsl;
 
-public class NoticeController {
+import org.springframework.web.bind.annotation.RequestMapping;
 
+public class NoticeController {
+	@RequestMapping("aaa")
+	public void aaa() {
+		
+	}
 }
