@@ -10,4 +10,7 @@ public class Qnacontroller {
 	void cccc() {
 		
 	}
+	void dddd() {
+		
+	}
 }
