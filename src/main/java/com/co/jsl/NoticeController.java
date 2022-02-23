@@ -4,4 +4,7 @@ public class NoticeController {
 	void aaa() {
 		
 	}
+	void bbb() {
+		
+	}
 }
