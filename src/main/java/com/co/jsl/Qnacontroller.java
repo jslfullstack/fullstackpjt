@@ -7,4 +7,7 @@ public class Qnacontroller {
 	void aaaa() {
 		
 	}
+	void cccc() {
+		
+	}
 }
